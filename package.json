@@ -1,0 +1,11 @@
+{
+	"author":"CBJ",
+	"name":"censortextify",
+	"version":"0.0.1",
+	"description":"This is a test program",
+	"main": "censortext",
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
