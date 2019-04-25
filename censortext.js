@@ -15,6 +15,7 @@ function addCensoredWords(word){
 }
 
 function getCensoredWords(){
+	console.log("11112345678")
 	return censoredWords.concat(customCensoredWords);
 }
 
